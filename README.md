@@ -52,6 +52,6 @@ Hay diferentes tipos de cartas:
 🏆 ¿Cómo se gana?
 
 Gana el primer jugador que consigue tener 4 órganos diferentes completamente sanos, es decir, sin virus ni otras cartas que los hagan estar infectados. </p>
-<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_pNUcFAMekjHzIvOryfk6P1tBvLGm_V8jX-0VhWZCMWB3STlin0mZaw&s=10" alt="imagen del juego virus junto algunas cartas del mismo juego" widht="500" height="500">
+<img scr="https://juegosdemesayrol.com/wp-content/uploads/Virus-2-1.jpg" alt="imagen del juego virus junto algunas cartas del mismo juego" widht="500" height="500">
 </body>
 </html>
